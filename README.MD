@@ -1,4 +1,4 @@
-== Steps to reproduce ==
+# Steps to reproduce
 
 npm install 
 
